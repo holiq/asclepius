@@ -1,0 +1,6 @@
+{
+  "backend-service-url": "isi dengan url backend Anda",
+  "frontend-service-url": "isi dengan url frontend Anda",
+  "project-id": "isi dengan project ID Google Cloud Project Anda",
+  "bucket-name": "isi dengan nama bucket yang menyimpan model Anda"
+}
